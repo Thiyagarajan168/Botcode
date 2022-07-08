@@ -1,0 +1,15 @@
+C:\Users\6112946\OneDrive - Thomson Reuters Incorporated\Documents\c++ Test\Botservice\BotTest\bin\Debug\netcoreapp3.1\BotTest.exe
+C:\Users\6112946\OneDrive - Thomson Reuters Incorporated\Documents\c++ Test\Botservice\BotTest\bin\Debug\netcoreapp3.1\Microsoft.Bot.Connector.DirectLine.dll
+C:\Users\6112946\OneDrive - Thomson Reuters Incorporated\Documents\c++ Test\Botservice\BotTest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\6112946\OneDrive - Thomson Reuters Incorporated\Documents\c++ Test\Botservice\BotTest\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
+C:\Users\6112946\OneDrive - Thomson Reuters Incorporated\Documents\c++ Test\Botservice\BotTest\obj\Debug\netcoreapp3.1\BotTest.csprojAssemblyReference.cache
+C:\Users\6112946\OneDrive - Thomson Reuters Incorporated\Documents\c++ Test\Botservice\BotTest\obj\Debug\netcoreapp3.1\BotTest.AssemblyInfoInputs.cache
+C:\Users\6112946\OneDrive - Thomson Reuters Incorporated\Documents\c++ Test\Botservice\BotTest\obj\Debug\netcoreapp3.1\BotTest.AssemblyInfo.cs
+C:\Users\6112946\OneDrive - Thomson Reuters Incorporated\Documents\c++ Test\Botservice\BotTest\obj\Debug\netcoreapp3.1\BotTest.csproj.CopyComplete
+C:\Users\6112946\OneDrive - Thomson Reuters Incorporated\Documents\c++ Test\Botservice\BotTest\bin\Debug\netcoreapp3.1\BotTest.deps.json
+C:\Users\6112946\OneDrive - Thomson Reuters Incorporated\Documents\c++ Test\Botservice\BotTest\bin\Debug\netcoreapp3.1\BotTest.runtimeconfig.json
+C:\Users\6112946\OneDrive - Thomson Reuters Incorporated\Documents\c++ Test\Botservice\BotTest\bin\Debug\netcoreapp3.1\BotTest.runtimeconfig.dev.json
+C:\Users\6112946\OneDrive - Thomson Reuters Incorporated\Documents\c++ Test\Botservice\BotTest\bin\Debug\netcoreapp3.1\BotTest.dll
+C:\Users\6112946\OneDrive - Thomson Reuters Incorporated\Documents\c++ Test\Botservice\BotTest\bin\Debug\netcoreapp3.1\BotTest.pdb
+C:\Users\6112946\OneDrive - Thomson Reuters Incorporated\Documents\c++ Test\Botservice\BotTest\obj\Debug\netcoreapp3.1\BotTest.dll
+C:\Users\6112946\OneDrive - Thomson Reuters Incorporated\Documents\c++ Test\Botservice\BotTest\obj\Debug\netcoreapp3.1\BotTest.pdb

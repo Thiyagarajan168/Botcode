@@ -1,0 +1,10 @@
+C:\Users\6112946\OneDrive - Thomson Reuters Incorporated\Documents\c++ Test\Botservice\Botservice\obj\Debug\Botservice.csprojAssemblyReference.cache
+C:\Users\6112946\OneDrive - Thomson Reuters Incorporated\Documents\c++ Test\Botservice\Botservice\bin\Debug\Botservice.dll
+C:\Users\6112946\OneDrive - Thomson Reuters Incorporated\Documents\c++ Test\Botservice\Botservice\bin\Debug\Botservice.pdb
+C:\Users\6112946\OneDrive - Thomson Reuters Incorporated\Documents\c++ Test\Botservice\Botservice\bin\Debug\Microsoft.Bot.Connector.DirectLine.dll
+C:\Users\6112946\OneDrive - Thomson Reuters Incorporated\Documents\c++ Test\Botservice\Botservice\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\6112946\OneDrive - Thomson Reuters Incorporated\Documents\c++ Test\Botservice\Botservice\bin\Debug\Newtonsoft.Json.dll
+C:\Users\6112946\OneDrive - Thomson Reuters Incorporated\Documents\c++ Test\Botservice\Botservice\bin\Debug\Newtonsoft.Json.xml
+C:\Users\6112946\OneDrive - Thomson Reuters Incorporated\Documents\c++ Test\Botservice\Botservice\obj\Debug\Botservice.csproj.CopyComplete
+C:\Users\6112946\OneDrive - Thomson Reuters Incorporated\Documents\c++ Test\Botservice\Botservice\obj\Debug\Botservice.dll
+C:\Users\6112946\OneDrive - Thomson Reuters Incorporated\Documents\c++ Test\Botservice\Botservice\obj\Debug\Botservice.pdb
